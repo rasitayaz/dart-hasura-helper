@@ -1,6 +1,6 @@
 name: hasura_helper
 description: A Hasura GraphQL helper utility to build queries and mutations with ease
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/rasitayaz/dart-hasura-helper
 repository: https://github.com/rasitayaz/dart-hasura-helper
 issue_tracker: https://github.com/rasitayaz/dart-hasura-helper/issues
