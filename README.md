@@ -1,6 +1,6 @@
 # Dart Hasura Helper
 
-[![Pub](https://img.shields.io/pub/v/hasura_helper.svg?style=popout)](https://pub.dartlang.org/packages/balanced_text)
+[![Pub](https://img.shields.io/pub/v/hasura_helper.svg?style=popout)](https://pub.dartlang.org/packages/hasura_helper)
 [![](https://img.shields.io/badge/github-rasitayaz-red)](https://github.com/rasitayaz)
 [![](https://img.shields.io/badge/buy&nbsp;me&nbsp;a&nbsp;coffee-donate-blue)](https://www.buymeacoffee.com/RasitAyaz)
 
